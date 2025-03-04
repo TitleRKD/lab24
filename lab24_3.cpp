@@ -2,7 +2,6 @@
 
 using namespace std;
 
-//Write function count() here.
 int count(int data[],int size){
 	int count = 0;
 	for(int i = 0; i < size; i++){
